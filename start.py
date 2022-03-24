@@ -4,6 +4,10 @@ import pandas as pd
 
 app = Flask(__name__)
 
+@app.route("/hello",methods=['POST','GET'])
+def hello():
+    return 'hello'
+
 @app.route("/generatePdf",methods=['POST','GET'])
 def generatePdf():
     # print(request.json)
@@ -11,7 +15,7 @@ def generatePdf():
     df = pd.DataFrame(request.json)
     df.to_html("sample.html",border=1,sparsify=False,justify="center",max_cols=len(list(df.columns)),show_dimensions=True,)
 
-    path = b".\wkhtmltopdf\\bin\wkhtmltopdf.exe"
+    path = b"./wkhtmltopdf/bin/wkhtmltopdf.exe"
     config = pdf.configuration(wkhtmltopdf=path)
     options = {
         'page-size': 'B0',
@@ -21,8 +25,6 @@ def generatePdf():
         'margin-left': '0.75in',
         'encoding': "UTF-8",
         'no-outline': None,
-        # 'disable-smart-shrinking': False,
-        # 'scale-size' : 40,
     }
     
     # creating pdf
