@@ -1,0 +1,171 @@
+,ID,Name,Gender,Class,Seat,Club,Persona,Crush,BreastSize,Strength,Hairstyle,Color,Eyes,EyeType,Stockings,Accessory,ScheduleTime,ScheduleDestination,ScheduleAction,Info
+0,1,Senpai,1,32,15,0,1,0,0,0,1,Black,Black,Default,None,0,7_7_8_13.01_13.375_15.5_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Hangout_Locker_Exit,Stand_Stand_Read_Sit_Eat_Sit_Clean_Read_Shoes_Stand,"An average student. 
+ 
+ Average grades, average looks, average life... 
+ 
+ I'm not sure what you see in him."
+1,2,Yui Rio,0,11,14,1,5,0,0.5,0,2,Red,Red,Default,Red,0,7_7_8_13_13.375_15.5_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Club_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_SocialSit_Shoes_Stand,
+2,3,Yuna Hina,0,12,14,1,6,0,0.8,0,3,Yellow,Yellow,Default,Yellow,0,7_7_8_13_13.375_15.5_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Club_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_SocialSit_Shoes_Stand,
+3,4,Koharu Hinata,0,21,14,1,6,0,1.1,0,4,Green,Green,Default,Green,0,7_7_8_13.0001_13.375_15.5001_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Club_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_SocialSit_Shoes_Stand,
+4,5,Mei Mio,0,22,14,1,2,0,1.4,0,5,Blue,Blue,Default,Blue,7,7_7_8_13_13.375_15.5_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Club_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_SocialSit_Shoes_Stand,
+5,6,Saki Miyu,0,31,14,1,6,0,1.7,0,6,Cyan,Cyan,Default,Cyan,0,7_7_8_13.01_13.375_15.5_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Club_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_SocialSit_Shoes_Stand,Kokona Haruka's best friend and closest confidant. Kokona is likely to discuss personal matters with this girl.
+6,7,Kokona Haruka,0,32,14,1,6,1,2,0,7,Purple,Purple,Default,Purple,0,7_7_8_13.01_13.375_15.51_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Club_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_SocialSit_Shoes_Stand,
+7,8,Haruto Yuto,1,11,12,0,5,0,0,0,2,Red,Red,Default,None,3,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_Shoes_Stand,
+8,9,Sota Yuki,1,12,12,0,6,0,0,0,3,Yellow,Yellow,Default,None,0,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_Shoes_Stand,
+9,10,Hayato Haruki,1,21,12,0,6,0,0,0,4,Green,Green,Default,None,0,7_7_8_13.0002_13.375_15.5002_16_16.5_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_Shoes_Stand,
+10,11,Ryusei Koki,1,22,12,0,2,0,0,0,5,Blue,Blue,Default,None,4,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_Shoes_Stand,
+11,12,Sora Sosuke,1,31,12,0,6,0,0,0,6,Cyan,Cyan,Default,None,0,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_Shoes_Stand,
+12,13,Riku Soma,1,32,12,0,6,7,0,0,7,Purple,Purple,Default,None,0,7_7_8_13_13.375_15.5_16_16.25_17.5_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Stalk_Patrol_Locker_Exit,Stand_Stand_Socialize_Sit_Socialize_Sit_Clean_Stalk_Patrol_Shoes_Stand,"Comes from a rich family. He tries to hide this fact from others, but his affluent origins are very obvious because of his unusual way of speaking."
+13,14,Pippi Osu,0,11,5,11,10,15,1,0,8,Pippi,Green,Default,None,0,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_Hangout_Seat_Clean_Hangout_Hangout,Stand_Stand_Game_Sit_Game_Sit_Clean_Game_Game,Extremely unlikely to witness murder unless it takes place in the computer lab.
+14,15,Ryuto Ippongo,1,12,5,11,10,14,0,0,8,Red,Red,Default,None,1,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_Hangout_Seat_Clean_Hangout_Hangout,Stand_Stand_Game_Sit_Game_Sit_Clean_Game_Game,"Secretly has a crush on Pippi Osu. Neither of them realize that they both share feelings for each other. 
+ 
+ Swears to his parents that he spends all of his free time studying."
+15,16,Midori Gurin,0,31,5,11,10,0,1,0,9,Green,Green,Default,ShortGreen,0,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_Hangout_Seat_Clean_Hangout_Hangout,Stand_Stand_Text_Sit_Text_Sit_Clean_Text_Text,Known for irritating her classmates and teachers by constantly asking foolish questions.
+16,17,Sakyu Basu,0,21,5,0,6,0,1.5,0,10,Succubus1,Succubus1,Default,None,3,7_7_8_13.0003_13.375_15.5003_16_16.5_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Locker_Exit,Stand_Stand_Socialize_Sit_Eat_Sit_Clean_Shoes_Stand,"Wears contact lenses. 
+ 
+ Enjoys spending time with her younger sister. 
+ 
+ Rumored to be a succubus disguised as a high school student...but only a fool would believe something like that."
+17,18,Inkyu Basu,0,22,5,0,6,0,1,0,11,Succubus2,Succubus2,Default,None,0,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Locker_Exit,Stand_Stand_Socialize_Sit_Eat_Sit_Clean_Shoes_Stand,"Wears contact lenses. 
+ 
+ Enjoys spending time with her older sister. 
+ 
+ Rumored to be a vampire disguised as a high school student...but only a fool would believe something like that."
+18,19,Kuu Dere,0,32,5,0,1,0,1,0,12,Kuudere,Kuudere,Default,None,0,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_Hangout_Seat_Clean_Locker_Exit,Stand_Stand_Read_Sit_Read_Sit_Clean_Shoes_Stand,"The school librarian. 
+ 
+ Strongly prefers solitude. 
+ 
+ Very rarely expresses emotions."
+19,20,Mai Waifu,0,31,8,11,1,99,2,0,13,Waifu,Waifu,Gentle,None,0,7_7_8_13_13.375_15.5_16_16.5_99,Spawn_Locker_Hangout_Seat_Hangout_Seat_Clean_Locker_Exit,Stand_Stand_Stand_Sit_Stand_Sit_Clean_Shoes_Stand,"Described as 'kawaii' 'moe' and 'deredere' by her admirers. 
+ 
+ Has sworn her heart to an independent game developer living overseas. 
+ 
+ Prefers to spend her time alone, daydreaming about her loved one."
+20,21,Budo Masuta,1,32,8,6,3,99,0,5,9,Black,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,"President of the Martial Arts Club. Inherited the club after defeating the previous president. 
+ 
+ Seems to be incapable of turning down a challenge. 
+ 
+ Always gung ho and enthusiastic. Sometimes a bit overzealous, especially about martial arts."
+21,22,Sho Kunin,1,22,8,6,3,0,0,3,10,Brown,Brown,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,Journeyman-level disciple of Budo Masuta.
+22,23,Juku Ren,1,12,8,6,2,0,0,1,11,Orange,Orange,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,Apprentice-level disciple of Budo Masuta.
+23,24,Mina Rai,0,21,8,6,3,0,1,4,14,Brown,Brown,Default,None,0,7_7_8_13.0004_13.375_15.5004_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,Journeyman-level disciple of Budo Masuta.
+24,25,Shima Shita,0,11,8,6,3,0,1,2,15,Orange,Orange,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,Apprentice-level disciple of Budo Masuta.
+25,26,Oka Ruto,0,32,10,3,4,1,1,0,16,Occult1,Occult1,Default,None,5,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Stalk_Seat_Club_Seat_Clean_Club,Stand_Stand_Stalk_Sit_Club_Sit_Clean_Club,"Founder and President of the Occult Club. 
+ 
+ Seems to have absolutely no interest in anything that is not paranormal. 
+ 
+ Stalks the Basu sisters daily in a futile search for evidence that they are supernatural beings."
+26,27,Shin Higaku,1,31,10,3,4,99,0,0,12,Occult2,Occult2,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,Trusted by Oka Ruto to operate the Occult Club when she is not present.
+27,28,Supana Churu,0,22,10,3,4,0,1,0,17,Occult3,Occult3,Default,None,1,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,"Claims to be wearing a medical eyepatch to correct a problem with her vision. 
+ 
+ Refuses to provide details regarding her eye condition, leading to rumors that she is lying about the reason she wears an eyepatch."
+28,29,Chojo Tekina,1,21,10,3,4,0,0,0,13,Occult4,Occult4,Default,None,0,7_7_8_13.0005_13.375_15.5005_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,"No student has ever seen the right side of his face. 
+ 
+ Some students suspect that he is using his hair to hide an unsightly scar or missing eye."
+29,30,Kokuma Jutsu,0,12,10,3,4,0,1,0,18,Occult5,Occult5,Default,None,2,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,"Claims that the bandages on her face are the result of being attacked by a wild animal shortly before the school year began. 
+ 
+ There are rumors that the true reason she wears bandages is because she is regularly beaten by a family member, and was blinded in one eye during a domestic dispute."
+30,31,Daku Atsu,1,11,10,3,2,0,0,0,14,Occult6,Occult6,Default,None,2,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Club_Seat_Club_Seat_Clean_Club,Stand_Stand_Club_Sit_Club_Sit_Clean_Club,"One of the lenses of his glasses is completely opaque. No student has ever seen his right eye. 
+ 
+ Some students suspect that he only has one eye, and prefers to wear an opaque lense over that eye rather than an eyepatch."
+31,32,Horuda Puresu,0,11,2,0,11,0,1,0,34,Black,Black,Default,ShortBlack,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Hangout_Seat_Hangout_Seat_Clean_Locker_Exit,Stand_Stand_Read_Sit_Read_Sit_Clean_Shoes_Stand,"A shy and timid girl. 
+ 
+ She is usually targeted for bullying. 
+ 
+ A temporary placeholder student. Don't get too attached to her."
+32,33,Reserved,0,21,11,0,7,1,1,1,20,Osana,Osana,Default,Osana,0,7_7_8_13.001_13.375_15.501_16_17.25_99_99,Spawn_Locker_Hangout_Seat_LunchSpot_Seat_Clean_Hangout_Locker_Exit,Stand_Stand_Stand_Sit_Eat_Sit_Clean_Hangout_Shoes_Exit,
+33,34,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+34,35,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+35,36,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+36,37,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+37,38,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+38,39,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+39,40,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+40,41,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+41,42,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+42,43,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+43,44,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+44,45,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+45,46,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+46,47,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+47,48,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+48,49,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+49,50,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+50,51,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+51,52,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+52,53,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+53,54,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+54,55,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+55,56,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+56,57,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+57,58,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+58,59,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+59,60,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+60,61,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+61,62,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+62,63,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+63,64,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+64,65,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+65,66,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+66,67,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+67,68,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+68,69,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+69,70,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+70,71,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+71,72,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+72,73,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+73,74,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+74,75,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+75,76,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+76,77,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+77,78,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+78,79,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+79,80,Unknown,0,0,0,0,0,0,1,0,1,White,Black,Default,None,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Patrol_Seat_Patrol_Seat_Clean_Patrol,Stand_Stand_Patrol_Sit_Patrol_Sit_Clean_Patrol,
+80,81,Musume Ronshaku,0,32,1,14,10,0,1.5,0,26,Ganguro1,Ganguro1,Default,Loose,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Graffiti_Seat_Bully_Seat_Hangout_Patrol,Stand_Stand_Graffiti_Sit_Bully_Sit_Gossip_Patrol,"A flashy trend-setter who loves to gossip and doesn't take school too seriously. 
+ 
+ She is spoiled rotten by her doting father, who buys his daughter anything she wants. 
+ 
+ Her father runs a loan agency."
+81,82,Kashiko Murasaki,0,31,1,14,10,0,1.4,0,27,Ganguro2,Ganguro2,Default,Loose,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Graffiti_Seat_Bully_Seat_Hangout_Patrol,Stand_Stand_Graffiti_Sit_Bully_Sit_Gossip_Patrol,"Spends most of her time texting on her phone. 
+ 
+ Pretends to be a sweet girl, but in private, her personality is quite nasty. 
+ 
+ Secretly, her favorite activity is gossipping and spreading rumors."
+82,83,Hana Daidaiyama,0,22,1,14,10,0,1.3,0,28,Ganguro3,Ganguro3,Default,Loose,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Graffiti_Seat_Bully_Seat_Hangout_Patrol,Stand_Stand_Graffiti_Sit_Bully_Sit_Gossip_Patrol,"Spends most of her time playing games on her phone. 
+ 
+ Pretends to be pure and innocent, but in private, she can be extremely vulgar. 
+ 
+ Secretly, her favorite activity is looking for dirt in peoples' pasts."
+83,84,Kokoro Momoiro,0,21,1,14,10,0,1.2,0,29,Ganguro4,Ganguro4,Default,Loose,0,7_7_8_13.0006_13.375_15.5006_16_99,Spawn_Locker_Graffiti_Seat_Bully_Seat_Hangout_Patrol,Stand_Stand_Graffiti_Sit_Bully_Sit_Gossip_Patrol,"Spends most of her time taking selfies with her phone. 
+ 
+ Pretends to oppose bullying, but in private, she harasses the people she dislikes. 
+ 
+ Secretly, her favorite activity is shaming and ridiculing other people."
+84,85,Hoshiko Mizudori,0,12,1,14,10,0,1.1,0,30,Ganguro5,Ganguro5,Default,Loose,0,7_7_8_13_13.375_15.5_16_99,Spawn_Locker_Graffiti_Seat_Bully_Seat_Hangout_Patrol,Stand_Stand_Graffiti_Sit_Bully_Sit_Gossip_Patrol,"Spends most of her time browsing the Internet on her phone. 
+ 
+ Pretends to be a positive person, but in private, only says negative things about others. 
+ 
+ Secretly, her favorite activity is operating a hate blog on the Internet."
+85,86,Kuroko Kamenaga,0,32,3,13,8,0,1.25,7,22,Council1,Council1,Council1,Council1,8,7_8_13_13.375_15.5_16_99,Spawn_Patrol_Seat_Patrol_Seat_Patrol_Hangout,Stand_Patrol_Sit_Patrol_Sit_Patrol_Relax,"Last year's student council president, and this year's vice president. Currently substituting for the absent president. Known for being formal at all times."
+86,87,Shiromi Torayoshi,0,22,3,13,8,0,0.75,7,23,Council2,Council2,Council2,Council2,9,7_8_13_13.375_15.5_16_99,Spawn_Patrol_Seat_Patrol_Seat_Patrol_Hangout,Stand_Patrol_Sit_Patrol_Sit_Patrol_Relax,Treasurer of the student council. A mysterious &amp; enigmatic young woman. Known to be calm &amp; relaxed at all times. Some students find her unsettling.
+87,88,Akane Toriyasu,0,31,3,13,8,0,1.5,7,24,Council3,Council3,Council3,Council3,10,7_8_13_13.375_15.5_16_99,Spawn_Patrol_Seat_Patrol_Seat_Patrol_Hangout,Stand_Patrol_Sit_Patrol_Sit_Patrol_Relax,"Secretary of the student council. Seems ditzy and airheaded at first glance, but has never failed in her duties. She has a very large number of male admirers."
+88,89,Aoi Ryugoku,0,21,3,13,8,0,1,7,25,Council4,Council4,Council4,Council4,11,7_8_13.0007_13.375_15.5007_16_99,Spawn_Patrol_Seat_Patrol_Seat_Patrol_Hangout,Stand_Patrol_Sit_Patrol_Sit_Patrol_Relax,Enforcer of the student council. Charged with the task of maintaining peace throughout the school. Often uses physical intimidation to enforce rules.
+89,90,Nasu Kankoshi,0,1,0,102,9,0,1,6,8,White,Brown,Default,None,8,0_0_0_0_0,Patrol_Patrol_Patrol_Patrol_Patrol,Patrol_Patrol_Patrol_Patrol_Patrol,
+90,91,Reina Nana,0,11,0,100,9,0,1.5,6,1,Brown,Brown,Default,None,1,7_8.25_13_13.375_15.5_99,Spawn_Seat_Podium_Seat_Podium_Seat,Stand_Grade_Teach_Grade_Teach_Grade,
+91,92,Natsuki Anna,0,12,0,100,9,0,1.5,6,2,Brown,Brown,Default,None,2,7_8.25_13_13.375_15.5_99,Spawn_Seat_Podium_Seat_Podium_Seat,Stand_Grade_Teach_Grade_Teach_Grade,
+92,93,Rino Fuka,0,21,0,100,9,0,1.5,6,3,Brown,Brown,Default,None,3,7_8.25_13_13.375_15.5_99,Spawn_Seat_Podium_Seat_Podium_Seat,Stand_Grade_Teach_Grade_Teach_Grade,
+93,94,Shiori Risa,0,22,0,100,9,0,1.5,6,4,Brown,Brown,Default,None,4,7_8.25_13_13.375_15.5_99,Spawn_Seat_Podium_Seat_Podium_Seat,Stand_Grade_Teach_Grade_Teach_Grade,
+94,95,Karin Hana,0,31,0,100,9,0,1.5,6,5,Brown,Brown,Default,None,5,7_8.25_13_13.375_15.5_99,Spawn_Seat_Podium_Seat_Podium_Seat,Stand_Grade_Teach_Grade_Teach_Grade,
+95,96,Kaho Kanon,0,32,0,100,9,0,1.5,6,6,Brown,Brown,Default,None,6,7_8.25_13_13.375_15.5_99,Spawn_Seat_Podium_Seat_Podium_Seat,Stand_Grade_Teach_Grade_Teach_Grade,
+96,97,Kyoshi Taiso,0,0,0,101,9,0,1.5,6,7,Blonde,Blonde,Default,None,7,7_8_13_13.375_15.5_99,Spawn_Podium_Patrol_Seat_Patrol_Podium,Stand_Stand_Patrol_Grade_Patrol_Stand,
+97,98,Genka Kunahito,0,2,0,100,9,0,1,6,1,White,Black,Default,None,0,0,Nothing,Nothing,"The school's guidance counselor. 
+ 
+ Misbehaving students are sent to her office. 
+ 
+ To expel a student, you must catch that student misbehaving and report them to her."
+98,99,Kocho Shuyona,1,3,0,100,9,0,0,99,1,White,Black,Default,None,0,0,Nothing,Nothing,"The school's headmaster. 
+ 
+ An extremely reclusive person, he rarely leaves his office or addresses the student body in person. 
+ 
+ The center of numerous unsavory rumors, although none have been proven."
+99,100,Info-chan,0,0,0,99,99,0,1,99,1,White,Black,Default,None,0,0,Nothing,Nothing,"Trying to look up my information? Don't bother. There is nothing that you need to know about me. You're a client, and I'm a provider. That's all we need to know about each other."
