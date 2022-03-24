@@ -1,4 +1,5 @@
 pandas~=1.4.1
-Flask~=2.0.3
+flask~=2.0.3
+pdfkit~=1.0.0
 gunicorn~=20.1.0
 
