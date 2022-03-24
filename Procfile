@@ -1,1 +1,1 @@
-web gunicorn PDF_Generator:app
+web gunicorn start:app
